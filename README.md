@@ -1,7 +1,7 @@
 # BallBash
 
 A bubble-shooter game written in C++ with SDL2, built as a first-year
-programming project at Sharif University of Technology (2024).
+programming project at Sharif University of Technology (2023).
 
 Balls sit on a hexagonal grid; you aim and shoot from the bottom, and
 matching clusters pop. Three modes (normal, timed, endless), power-ups
