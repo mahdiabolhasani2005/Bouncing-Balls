@@ -1,4 +1,4 @@
-# BallBash
+# Bouncing Balls
 
 A bubble-shooter game written in C++ with SDL2, built as a first-year
 programming project at Sharif University of Technology (2023).
